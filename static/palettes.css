@@ -1,0 +1,229 @@
+/* Generated from palettes.py when the site starts. Edit colours there, not here. */
+html[data-light="forest"][data-theme="light"] {
+  --bg: #f2f4f0;
+  --surface: #fafbf8;
+  --surface-sunken: #e6e9e3;
+  --ink: #151c18;
+  --ink-muted: #46504a;
+  --ink-subtle: #5d6861;
+  --line: #d5dad2;
+  --line-strong: #7f8a82;
+  --accent: #1c6b4a;
+  --accent-soft: #d6e8dc;
+  --nav-bg: rgba(242, 244, 240, 0.78);
+  --card-bg: #ffffff;
+  --card-border: #dde2da;
+  --chip-bg: #f6f8f4;
+  --grid-line: rgba(21, 28, 24, 0.045);
+  --card-shadow: 0 1px 2px rgba(21, 28, 24, 0.04), 0 12px 32px -12px rgba(21, 28, 24, 0.12);
+  color-scheme: light;
+}
+html[data-dark="forest"][data-theme="dark"] {
+  --bg: #101513;
+  --surface: #171d1a;
+  --surface-sunken: #0b0f0d;
+  --ink: #e6ebe6;
+  --ink-muted: #aab4ad;
+  --ink-subtle: #8d9890;
+  --line: #262e2a;
+  --line-strong: #6c776f;
+  --accent: #74d3a2;
+  --accent-soft: #1c3329;
+  --nav-bg: rgba(16, 21, 19, 0.72);
+  --card-bg: #151b18;
+  --card-border: #262e2a;
+  --chip-bg: #101513;
+  --grid-line: rgba(230, 235, 230, 0.045);
+  --card-shadow: none;
+  color-scheme: dark;
+}
+html[data-light="ocean"][data-theme="light"] {
+  --bg: #f1f4f8;
+  --surface: #f9fbfd;
+  --surface-sunken: #e4e9f0;
+  --ink: #111a26;
+  --ink-muted: #3f4b5c;
+  --ink-subtle: #556275;
+  --line: #d3dbe6;
+  --line-strong: #7a8698;
+  --accent: #1d5fbf;
+  --accent-soft: #dbe7f8;
+  --nav-bg: rgba(241, 244, 248, 0.78);
+  --card-bg: #ffffff;
+  --card-border: #dbe2ec;
+  --chip-bg: #f5f7fa;
+  --grid-line: rgba(17, 26, 38, 0.045);
+  --card-shadow: 0 1px 2px rgba(21, 28, 24, 0.04), 0 12px 32px -12px rgba(21, 28, 24, 0.12);
+  color-scheme: light;
+}
+html[data-dark="ocean"][data-theme="dark"] {
+  --bg: #0d1218;
+  --surface: #141b23;
+  --surface-sunken: #090d12;
+  --ink: #e5ebf2;
+  --ink-muted: #a7b2c0;
+  --ink-subtle: #8a96a6;
+  --line: #222c38;
+  --line-strong: #67758a;
+  --accent: #7fb2ff;
+  --accent-soft: #182a44;
+  --nav-bg: rgba(13, 18, 24, 0.72);
+  --card-bg: #121921;
+  --card-border: #222c38;
+  --chip-bg: #0d1218;
+  --grid-line: rgba(229, 235, 242, 0.045);
+  --card-shadow: none;
+  color-scheme: dark;
+}
+html[data-light="silicon"][data-theme="light"] {
+  --bg: #f0f5f5;
+  --surface: #f9fcfc;
+  --surface-sunken: #e1eaea;
+  --ink: #0f1d1e;
+  --ink-muted: #3d4f50;
+  --ink-subtle: #526667;
+  --line: #d0dddd;
+  --line-strong: #768a8b;
+  --accent: #0a6a7b;
+  --accent-soft: #d3ecef;
+  --nav-bg: rgba(240, 245, 245, 0.78);
+  --card-bg: #ffffff;
+  --card-border: #d6e2e2;
+  --chip-bg: #f4f8f8;
+  --grid-line: rgba(15, 29, 30, 0.045);
+  --card-shadow: 0 1px 2px rgba(21, 28, 24, 0.04), 0 12px 32px -12px rgba(21, 28, 24, 0.12);
+  color-scheme: light;
+}
+html[data-dark="silicon"][data-theme="dark"] {
+  --bg: #0b1415;
+  --surface: #111c1d;
+  --surface-sunken: #070e0f;
+  --ink: #e1eeee;
+  --ink-muted: #a2b6b7;
+  --ink-subtle: #86999a;
+  --line: #1f2d2e;
+  --line-strong: #647a7b;
+  --accent: #5fd0dc;
+  --accent-soft: #143236;
+  --nav-bg: rgba(11, 20, 21, 0.72);
+  --card-bg: #0f191a;
+  --card-border: #1f2d2e;
+  --chip-bg: #0b1415;
+  --grid-line: rgba(225, 238, 238, 0.045);
+  --card-shadow: none;
+  color-scheme: dark;
+}
+html[data-light="copper"][data-theme="light"] {
+  --bg: #f4f3f1;
+  --surface: #fbfaf9;
+  --surface-sunken: #e8e5e1;
+  --ink: #1c1814;
+  --ink-muted: #4e463e;
+  --ink-subtle: #645b51;
+  --line: #ddd7d0;
+  --line-strong: #898076;
+  --accent: #a9470f;
+  --accent-soft: #f5e1d3;
+  --nav-bg: rgba(244, 243, 241, 0.78);
+  --card-bg: #ffffff;
+  --card-border: #e2ddd7;
+  --chip-bg: #f8f7f5;
+  --grid-line: rgba(28, 24, 20, 0.045);
+  --card-shadow: 0 1px 2px rgba(21, 28, 24, 0.04), 0 12px 32px -12px rgba(21, 28, 24, 0.12);
+  color-scheme: light;
+}
+html[data-dark="copper"][data-theme="dark"] {
+  --bg: #14110f;
+  --surface: #1c1815;
+  --surface-sunken: #0e0c0a;
+  --ink: #efe8e2;
+  --ink-muted: #b9ada2;
+  --ink-subtle: #9c9086;
+  --line: #2d2722;
+  --line-strong: #786d63;
+  --accent: #f2995c;
+  --accent-soft: #3a2416;
+  --nav-bg: rgba(20, 17, 15, 0.72);
+  --card-bg: #1a1613;
+  --card-border: #2d2722;
+  --chip-bg: #14110f;
+  --grid-line: rgba(239, 232, 226, 0.045);
+  --card-shadow: none;
+  color-scheme: dark;
+}
+html[data-light="violet"][data-theme="light"] {
+  --bg: #f4f3f8;
+  --surface: #fbfbfd;
+  --surface-sunken: #e7e5f0;
+  --ink: #17142a;
+  --ink-muted: #474261;
+  --ink-subtle: #5c5777;
+  --line: #dcd9e8;
+  --line-strong: #827d9b;
+  --accent: #5a3ecf;
+  --accent-soft: #e4ddfb;
+  --nav-bg: rgba(244, 243, 248, 0.78);
+  --card-bg: #ffffff;
+  --card-border: #e0ddeb;
+  --chip-bg: #f7f6fb;
+  --grid-line: rgba(23, 20, 42, 0.045);
+  --card-shadow: 0 1px 2px rgba(21, 28, 24, 0.04), 0 12px 32px -12px rgba(21, 28, 24, 0.12);
+  color-scheme: light;
+}
+html[data-dark="violet"][data-theme="dark"] {
+  --bg: #100e18;
+  --surface: #17141f;
+  --surface-sunken: #0b0a11;
+  --ink: #ebe8f4;
+  --ink-muted: #b0aac4;
+  --ink-subtle: #948ea9;
+  --line: #2a2636;
+  --line-strong: #706a88;
+  --accent: #b3a2ff;
+  --accent-soft: #2a2148;
+  --nav-bg: rgba(16, 14, 24, 0.72);
+  --card-bg: #15121d;
+  --card-border: #2a2636;
+  --chip-bg: #100e18;
+  --grid-line: rgba(235, 232, 244, 0.045);
+  --card-shadow: none;
+  color-scheme: dark;
+}
+html[data-light="graphite"][data-theme="light"] {
+  --bg: #f4f4f3;
+  --surface: #fbfbfa;
+  --surface-sunken: #e8e8e6;
+  --ink: #161616;
+  --ink-muted: #464646;
+  --ink-subtle: #5c5c5c;
+  --line: #dadad8;
+  --line-strong: #838383;
+  --accent: #2a2a2a;
+  --accent-soft: #e1e1df;
+  --nav-bg: rgba(244, 244, 243, 0.78);
+  --card-bg: #ffffff;
+  --card-border: #dfdfdd;
+  --chip-bg: #f7f7f6;
+  --grid-line: rgba(22, 22, 22, 0.045);
+  --card-shadow: 0 1px 2px rgba(21, 28, 24, 0.04), 0 12px 32px -12px rgba(21, 28, 24, 0.12);
+  color-scheme: light;
+}
+html[data-dark="graphite"][data-theme="dark"] {
+  --bg: #111111;
+  --surface: #191919;
+  --surface-sunken: #0b0b0b;
+  --ink: #ededed;
+  --ink-muted: #b0b0b0;
+  --ink-subtle: #939393;
+  --line: #2a2a2a;
+  --line-strong: #727272;
+  --accent: #f0f0f0;
+  --accent-soft: #2c2c2c;
+  --nav-bg: rgba(17, 17, 17, 0.72);
+  --card-bg: #161616;
+  --card-border: #2a2a2a;
+  --chip-bg: #111111;
+  --grid-line: rgba(237, 237, 237, 0.045);
+  --card-shadow: none;
+  color-scheme: dark;
+}

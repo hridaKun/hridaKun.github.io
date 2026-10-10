@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en" data-light="silicon" data-dark="forest">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Projects · Hridayesh</title>
+<meta name="description" content="I am an undergrad pursuing BE EEE and MSc Chemistry. I like to work with hardwares, and scale them for AI to run on them, and to optimize it for low power.">
+<link rel="icon" type="image/jpeg" href="../uploads/e70d70f130b0.jpg">
+<script src="../static/theme.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;display=swap">
+<link rel="stylesheet" href="../static/site.css">
+<link rel="stylesheet" href="../static/palettes.css">
+<script src="../static/motion.js" defer></script>
+</head>
+<body class="pf-root pf-public">
+<div class="pf-container">
+<header class="pf-nav">
+<a class="pf-nav__name" href="../">Hridayesh</a>
+<div class="pf-nav__right">
+<nav aria-label="Sections"><ul class="pf-nav__links"><li><a href="../projects/" aria-current="page">Projects</a></li><li><a href="../writing/">Writing</a></li><li><a href="../resume/">Resume</a></li></ul></nav>
+<button class="pf-toggle" type="button" aria-label="Dark theme" aria-pressed="false">
+<svg class="pf-toggle__moon" viewBox="0 0 16 16" aria-hidden="true"><path d="M13.5 9.5a5.5 5.5 0 0 1-7-7 5.5 5.5 0 1 0 7 7Z"/></svg>
+<svg class="pf-toggle__sun" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="3"/><path d="M8 1.5v1.5M8 13v1.5M1.5 8H3M13 8h1.5M3.4 3.4l1.1 1.1M11.5 11.5l1.1 1.1M3.4 12.6l1.1-1.1M11.5 4.5l1.1-1.1"/></svg>
+</button>
+</div>
+</header>
+<main>
+<section class="pf-section pf-page"><h1 class="pf-page__title">Projects</h1><article class="pf-project pf-reveal">
+<div class="pf-project__head"><h3 class="pf-project__title"><a href="https://github.com/hrida-k/FPGA-Quadratic-Solver" rel="noopener noreferrer">Fixed-Point Quadratic Equation Root Solver</a></h3><span class="pf-project__year">2026</span></div>
+<ul class="pf-project__points"><li>Designed a hardware solver in Verilog computing real and complex roots of a quadratic equation, with inputs and roots in signed <strong>Q16.16 fixed-point</strong></li><li>Implemented iterative <strong>Newton -Raphson</strong> engines for reciprocal (division ) and square root, handling fixed-point truncation and normalization without any vendor arithmetic IP.</li><li>Verified functionality on hardware using a <strong>VIO</strong>-based debug flow to drive coefficients and observe results .</li></ul><div class="pf-project__foot"><ul class="pf-tags"><li class="pf-tag">FPGA</li><li class="pf-tag">RTL Design</li><li class="pf-tag">Zynq 7000</li></ul><div class="pf-project__links"><a class="pf-link" href="https://github.com/hrida-k/FPGA-Quadratic-Solver" rel="noopener noreferrer">Github</a></div></div>
+</article><article class="pf-project pf-reveal">
+<div class="pf-project__head"><h3 class="pf-project__title">Parameterizable UART Transmitter &amp; Receiver</h3><span class="pf-project__year">2026</span></div>
+<ul class="pf-project__points"><li>Designed and implemented parameterizable UART Transmitter and Receiver modules in Verilog.</li><li>Developed FSM-based serial communication logic with configurable parity and stop-bit support.</li><li>Verified UART functionality using simulation testbenches across multiple transmission scenarios</li></ul><div class="pf-project__foot"><ul class="pf-tags"><li class="pf-tag">RTL Design</li><li class="pf-tag">Verilog</li></ul><div class="pf-project__links"></div></div>
+</article></section>
+</main>
+<footer class="pf-footer">
+<span>© 2026 Hridayesh</span>
+<ul class="pf-footer__links"><li><a href="mailto:hridayeshkundu@gmail.com">Email</a></li><li><a href="https://www.linkedin.com/in/hridayeshkundu3/" rel="noopener noreferrer">LinkedIn</a></li><li><a href="https://github.com/hrida-k" rel="noopener noreferrer">Github</a></li></ul>
+</footer>
+</div>
+</body>
+</html>
